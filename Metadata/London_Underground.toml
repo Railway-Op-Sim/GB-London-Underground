@@ -1,0 +1,14 @@
+rly_file = "London_Underground.rly"
+ttb_files = [ "TFL_Sunday.ttb",]
+ssn_files = [ "TFL_Sunday_0630_0730_Session.ssn",]
+img_files = [ "London_Underground.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-05-29"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+display_name = "London Underground"
+name = "London Underground"
+author = "Kristian Zarębski"
+contributors = []
